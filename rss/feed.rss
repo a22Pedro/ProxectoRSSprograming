@@ -4,13 +4,13 @@
         <title>Example Feed</title>
         <description>Insert witty or insightful remark here</description>
         <link>http://example.org/</link>
-        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-        <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+        <pubDate>Tue, 22 Nov 2022 10:00:00 GMT</pubDate>
+        <managingEditor>a22pedropn@iessanclemente.net</managingEditor>
         <item>
-            <title>Test page</title>
-            <link>http://example.org/test.html</link>
-            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
-            <description>Some text.</description>
+            <title>Java</title>
+            <link>https://a22pedro.github.io/ProxectoRSSprograming/</link>
+            <pubDate>Tue, 22 Nov 2022 10:00:00 GMT</pubDate>
+            <description>Tricks about Java</description>
         </item>
     </channel>
 </rss>
