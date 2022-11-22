@@ -4,13 +4,19 @@
         <title>Example Feed</title>
         <description>Insert witty or insightful remark here</description>
         <link>http://example.org/</link>
-        <pubDate>Tue, 22 Nov 2022 10:00:00 GMT</pubDate>
+        <pubDate>Tue, 22 Nov 2022 10:00:00 GMT+1</pubDate>
         <managingEditor>a22pedropn@iessanclemente.net</managingEditor>
         <item>
             <title>Java</title>
-            <link>https://a22pedro.github.io/ProxectoRSSprograming/</link>
-            <pubDate>Tue, 22 Nov 2022 10:00:00 GMT</pubDate>
+            <link>https://a22pedro.github.io/ProxectoRSSprograming/java</link>
+            <pubDate>Tue, 22 Nov 2022 10:00:00 GMT+1</pubDate>
             <description>Tricks about Java</description>
+        </item>
+        <item>
+            <title>Python</title>
+            <link>https://a22pedro.github.io/ProxectoRSSprograming/python</link>
+            <pubDate>Tue, 22 Nov 2022 10:00:00 GMT+1</pubDate>
+            <description>Tricks about Python</description>
         </item>
     </channel>
 </rss>
